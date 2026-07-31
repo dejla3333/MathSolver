@@ -72,7 +72,7 @@ Output:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/MathSolver.git
+https://github.com/dejla3333/MathSolver.git
 ```
 
 Install dependencies:
